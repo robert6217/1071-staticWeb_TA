@@ -47,23 +47,22 @@
 #### 表格標題
 * `<caption> ` : 用來指定表格**標題**
 
-
-#### 合併儲存格
-* `rowspan="n"`
-* `colspan="n"`
-
-
 #### 表格的表頭、主體、結尾
 * `<thead> ` : 用來標示表格的表頭
 * `<tbody> ` : 用來標示表格的主體
 * `<tfoot> ` : 用來標示表格的結尾
 
-
 #### 直欄式表格
 * `<colgroup>`
 * `<col>`
 
+## WEEK02
 
+#### CSS
+*  background-color, color, width, height, font-size
+#### 合併儲存格
+* `rowspan="n"`
+* `colspan="n"`
 
 
 
