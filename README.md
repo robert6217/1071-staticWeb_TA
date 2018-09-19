@@ -59,7 +59,7 @@
 ## WEEK02
 
 #### CSS
-*  background-color, color, width, height, font-size
+*  background-color, color, width, height, font-size [參考連結]
 #### 合併儲存格
 * `rowspan="n"`
 * `colspan="n"`
@@ -69,4 +69,4 @@
 [Git 與 Github 版本控制基本指令與操作入門教學]: https://blog.techbridge.cc/2018/01/17/learning-programming-and-coding-with-python-git-and-github-tutorial/
 [w3cSchools]: https://www.w3schools.com/html/default.asp
 [codepen]: https://codepen.io/
-
+[參考連結]: https://www.w3schools.com/cssref/css_colors.asp
