@@ -71,10 +71,10 @@
 * `<article>`
 * `<footer>`
 * `margin: 25px 50px 75px 100px;`
-  *top margin is 25px
-  *right margin is 50px
-  *bottom margin is 75px
-  *left margin is 100px
+  * top margin is 25px
+  * right margin is 50px
+  * bottom margin is 75px
+  * left margin is 100px
 
 ![image](http://3.bp.blogspot.com/_no61BxsTIjM/TSuaxv2bZEI/AAAAAAAAC2A/1SO2UfB2p3s/s1600/structure-html5%255B1%255D.gif)
 
