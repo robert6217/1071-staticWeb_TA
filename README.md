@@ -70,6 +70,8 @@
 * `<aside>`
 * `<article>`
 * `<footer>`
+
+#### CSS
 * `margin: 25px 50px 75px 100px;`
   * top margin is 25px
   * right margin is 50px
@@ -84,6 +86,7 @@
   * right and left margins are 50px
 * `margin 25px;`
   * all four margins are 25px
+* `float`、`clear`、`text-align`、`padding`
 
 ![image](http://3.bp.blogspot.com/_no61BxsTIjM/TSuaxv2bZEI/AAAAAAAAC2A/1SO2UfB2p3s/s1600/structure-html5%255B1%255D.gif)
 
