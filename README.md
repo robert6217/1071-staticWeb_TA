@@ -60,7 +60,7 @@
 ## WEEK02
 
 #### CSS
-*  background-color, color, width, height, font-size [參考連結]
+*  `background-color`, `color`, `width`, `height`, `font-size` [參考連結]
 #### 合併儲存格
 * `rowspan="n"`
 * `colspan="n"`
