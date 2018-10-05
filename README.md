@@ -87,12 +87,13 @@
 * `margin 25px;`
   * all four margins are 25px
 * `float`、`clear`、`text-align`、`padding`
+
 ![image](http://3.bp.blogspot.com/_no61BxsTIjM/TSuaxv2bZEI/AAAAAAAAC2A/1SO2UfB2p3s/s1600/structure-html5%255B1%255D.gif)
 
 ## WEEK04
 
-#### 表單
-### 表單基本框架
+### 表單
+#### 表單基本框架
 * `<form>`
 * `<input>`
   * `text` : 可用於輸入文字，例如: 帳號密碼的框框
