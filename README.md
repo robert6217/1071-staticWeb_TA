@@ -87,8 +87,26 @@
 * `margin 25px;`
   * all four margins are 25px
 * `float`、`clear`、`text-align`、`padding`
-
 ![image](http://3.bp.blogspot.com/_no61BxsTIjM/TSuaxv2bZEI/AAAAAAAAC2A/1SO2UfB2p3s/s1600/structure-html5%255B1%255D.gif)
+
+## WEEK04
+
+#### 表單
+### 表單基本框架
+* `<form>`
+* `<input>`
+  * `text` : 可用於輸入文字，例如: 帳號密碼的框框
+  * `radio` : 可用於單選按鈕輸入
+  * `checkbox` : 可用於多選按鈕輸入
+  * `submit` : 提交表單
+  * `reset` : 重製表單
+* `<select>` : 下拉式選單
+* `<textarea>` : 類似於 `<input tpye="text">`，可用於輸入大量文字的框框
+* `<fieldset>`、`<legend>` : 組合表單區塊
+
+
+
+
 
 [Git 與 Github 版本控制基本指令與操作入門教學]: https://blog.techbridge.cc/2018/01/17/learning-programming-and-coding-with-python-git-and-github-tutorial/
 [w3cSchools]: https://www.w3schools.com/html/default.asp
