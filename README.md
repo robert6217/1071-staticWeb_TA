@@ -101,11 +101,11 @@
   * `checkbox` : 可用於多選按鈕輸入
   * `submit` : 提交表單
   * `reset` : 重製表單
-  * 其餘型態可參考這個網站: [HTML Input Types]
+  * 其餘型態可參考這個網站 : [HTML Input Types]
 * `<select>` : 下拉式選單
 * `<textarea>` : 類似於 `<input tpye="text">`，可用於輸入大量文字的框框
 * `<fieldset>`、`<legend>` : 組合表單區塊
-* 其餘可參考這個網站: [HTML Forms]
+* 其餘可參考這個網站 : [HTML Forms]
 
 
 
