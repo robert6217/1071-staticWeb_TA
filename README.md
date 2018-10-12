@@ -110,6 +110,7 @@
 ## WEEK05
 ### CSS
 
+* `list-style` : 清單樣式
 * `display:` : 顯示方式
 * `text-indent` : 文字第一行縮排
 * `line-height` : 設定字體範圍高度
