@@ -108,8 +108,12 @@
 * 其餘可參考這個網站 : [HTML Forms]
 
 ## WEEK05
+### CSS
 
-
+* `display:` : 顯示方式
+* `text-indent` : 文字第一行縮排
+* `line-height` : 設定字體範圍高度
+* `a:hover` : 滑鼠移到連結上時
 
 
 
