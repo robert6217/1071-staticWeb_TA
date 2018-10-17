@@ -117,6 +117,10 @@
 * `a:hover` : 滑鼠移到連結上時
 
 
+## WEEK06
+###PRACTICE
+[FROGGY]
+
 
 [Git 與 Github 版本控制基本指令與操作入門教學]: https://blog.techbridge.cc/2018/01/17/learning-programming-and-coding-with-python-git-and-github-tutorial/
 [w3cSchools]: https://www.w3schools.com/html/default.asp
@@ -125,3 +129,4 @@
 [CSS]: http://zh-tw.learnlayout.com/
 [HTML Input Types]: https://www.w3schools.com/html/html_form_input_types.asp
 [HTML Forms]: https://www.w3schools.com/html/html_forms.asp
+[FROGGY]: https://flexboxfroggy.com/
