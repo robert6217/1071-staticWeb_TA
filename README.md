@@ -121,9 +121,9 @@
 
 ### Flexbox
 * `justify-content` : 決定了內容元素的「水平對齊」位置。
-* `flex-direction` : 內容元素的「排列方向」。
-* `align-items` : 決定了內容元素的「垂直對齊」位置，
-* `align-self` : `align-self` 的作用在於覆寫已經套用 `align-items` 的屬性。
+* `flex-direction` : 決定了內容元素的「排列方向」。
+* `align-items` : 決定了內容元素的「垂直對齊」位置，針對內容為單行的元素進行處理。
+* `align-self` : 作用在於覆寫已經套用 `align-items` 的屬性。
 * `align-content` : 針對內容為多行的元素進行處理。
 * `flex-wrap` : 這個屬性負責的是讓內容的元素換行。
 * `order` : 可以直接指定一個數字來做排序的動作。
