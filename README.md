@@ -120,14 +120,14 @@
 ## WEEK06
 
 ### Flexbox
-* `justify-content` : 決定了內容元素的「水平對齊」位置。
-* `flex-direction` : 決定了內容元素的「排列方向」。
-* `align-items` : 決定了內容元素的「垂直對齊」位置，針對內容為單行的元素進行處理。
-* `align-self` : 作用在於覆寫已經套用 `align-items` 的屬性。
-* `align-content` : 針對內容為多行的元素進行處理。
-* `flex-wrap` : 這個屬性負責的是讓內容的元素換行。
-* `order` : 可以直接指定一個數字來做排序的動作。
-* `flex-flow` : `flex-direction` 和 `flex-wrap`的縮寫。
+* `justify-content` : 決定了內容元素的「水平對齊」位置。 `flex-start | flex-end | center | space-between | space-around;`
+* `flex-direction` : 決定了內容元素的「排列方向」。 `row | row-reverse | column | column-reverse;`
+* `align-items` : 決定了內容元素的「垂直對齊」位置，針對內容為單行的元素進行處理。 `flex-start | flex-end | center | baseline | stretch;`
+* `align-self` : 作用在於覆寫已經套用 `align-items` 的屬性。 `flex-start | flex-end | center | space-between | space-around | stretch;`
+* `align-content` : 針對內容為多行的元素進行處理。 `flex-start | flex-end | center | space-between | space-around | stretch;`
+* `flex-wrap` : 這個屬性負責的是讓內容的元素換行。 `nowrap | wrap | wrap-reverse;`
+* `order` : 可以直接指定一個數字來做排序的動作。 
+* `flex-flow` : `flex-direction` 和 `flex-wrap`的縮寫。 `<'flex-direction'> || <'flex-wrap'>`
 #### REFERENCE : [深入解析 CSS Flexbox] + [圖解：CSS Flex 屬性一點也不難]
 
 ### PRACTICE
