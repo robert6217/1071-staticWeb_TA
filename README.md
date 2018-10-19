@@ -120,13 +120,13 @@
 ## WEEK06
 
 ### Flexbox
-* `justify-content` : 決定了內容元素與整個 Flexbox 的「水平對齊」位置。
-* `flex-direction` : 表示 Flexbox 內容元素的「排列方向」。
-* `align-items` : 剛好和 `justify-content` 相反，`align-items` 決定了內容元素與整個 Flexbox 的「垂直對齊」位置。
-* `align-self` : align-self 的設定與 `align-items` 相同，但目的不同，align-self 的作用在於覆寫已經套用 `align-items` 的屬性。
-* `align-content` : 剛剛談到的 `align-items` 是針對內容為單行的元素進行處理，如果遇到多行的元素，就要使用 `align-content` 這個屬性。
+* `justify-content` : 決定了內容元素的「水平對齊」位置。
+* `flex-direction` : 內容元素的「排列方向」。
+* `align-items` : 決定了內容元素的「垂直對齊」位置，
+* `align-self` : `align-self` 的作用在於覆寫已經套用 `align-items` 的屬性。
+* `align-content` : 針對內容為多行的元素進行處理。
 * `flex-wrap` : 這個屬性負責的是讓內容的元素換行。
-* `order` : 剛剛在 `flex-wrap` 的屬性裏頭看到了可以把元素反轉，`order` 這個屬性更是可以直接指定一個數字，就可以由小到大的排列順序。
+* `order` : 可以直接指定一個數字來做排序的動作。
 * `flex-flow` : `flex-direction` 和 `flex-wrap`的縮寫。
 #### REFERENCE : [深入解析 CSS Flexbox] + [圖解：CSS Flex 屬性一點也不難]
 
