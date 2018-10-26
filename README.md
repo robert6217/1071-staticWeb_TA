@@ -141,7 +141,7 @@
 [FROGGY]
 
 ## WEEK07
-* 響應式網頁 : 讓你的畫面更靈活地適應不同設備和螢幕的大小。
+### 響應式網頁 : 讓你的畫面更靈活地適應不同設備和螢幕的大小。
 * 使用bootstrap
 * `<div class="row">` + `<div class="col">`
 * REFERENCE : [BOOTSTRAP GRID SYSTEM]
