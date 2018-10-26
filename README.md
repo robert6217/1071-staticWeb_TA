@@ -140,6 +140,13 @@
 ### PRACTICE
 [FROGGY]
 
+## WEEK07
+* 響應式網頁 : 隨著網頁大小不同，又不同的畫面呈現。
+* 使用bootstrap
+* `<div class="row">` + `<div class="col">`
+REFERENCE : [BOOTSTRAP]
+
+
 
 
 [Git 與 Github 版本控制基本指令與操作入門教學]: https://blog.techbridge.cc/2018/01/17/learning-programming-and-coding-with-python-git-and-github-tutorial/
@@ -152,3 +159,4 @@
 [FROGGY]: https://flexboxfroggy.com/
 [深入解析 CSS Flexbox]: https://www.oxxostudio.tw/articles/201501/css-flexbox.html
 [圖解：CSS Flex 屬性一點也不難]: https://wcc723.github.io/css/2017/07/21/css-flex/
+[BOOTSTRAP]: https://bootstrap.hexschool.com/docs/4.1/getting-started/introduction/
