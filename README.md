@@ -149,6 +149,9 @@
 ## WEEK08
 ### 響應式網頁實作
 
+## WEEK11
+bootstrap table : [Table]
+bootstap pagetation : [Pagination]
 
 
 
@@ -163,3 +166,5 @@
 [深入解析 CSS Flexbox]: https://www.oxxostudio.tw/articles/201501/css-flexbox.html
 [圖解：CSS Flex 屬性一點也不難]: https://wcc723.github.io/css/2017/07/21/css-flex/
 [BOOTSTRAP GRID SYSTEM]: https://bootstrap.hexschool.com/docs/4.1/layout/grid/
+[Table]:https://bootstrap.hexschool.com/docs/4.0/content/tables/
+[Pagination]:https://bootstrap.hexschool.com/docs/4.1/components/pagination/
