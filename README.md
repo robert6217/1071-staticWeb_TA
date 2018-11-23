@@ -150,8 +150,8 @@
 ### 響應式網頁實作
 
 ## WEEK11
-bootstrap table : [Table]
-bootstap pagetation : [Pagination]
+* bootstrap table : [Table]
+* bootstap pagetation : [Pagination]
 
 
 
