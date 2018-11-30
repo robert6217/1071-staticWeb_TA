@@ -154,7 +154,7 @@
 * bootstap pagetation : [Pagination]
 
 ## WEEK12
-
+* bootstrap card : [Card]
 
 
 [Git 與 Github 版本控制基本指令與操作入門教學]: https://blog.techbridge.cc/2018/01/17/learning-programming-and-coding-with-python-git-and-github-tutorial/
@@ -170,3 +170,4 @@
 [BOOTSTRAP GRID SYSTEM]: https://bootstrap.hexschool.com/docs/4.1/layout/grid/
 [Table]:https://bootstrap.hexschool.com/docs/4.0/content/tables/
 [Pagination]:https://bootstrap.hexschool.com/docs/4.1/components/pagination/
+[Card]:https://bootstrap.hexschool.com/docs/4.0/components/card/
